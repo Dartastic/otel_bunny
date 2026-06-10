@@ -1,6 +1,6 @@
 name: otel_bunny
 description: "Dartastic OpenTelemetry bridge for Bunny.net (CDN pull zones, storage zones, Stream library, Edge Storage, Magic Containers)."
-version: 0.1.0-beta.2-wip
+version: 0.1.0-beta.2
 repository: https://github.com/dartastic/otel_bunny
 homepage: https://dartastic.io
 publish_to: https://pub.dartastic.io
